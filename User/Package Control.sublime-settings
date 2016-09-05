@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CleanCSS",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSONLint",
+		"JsValidate",
+		"LESS",
+		"Local History"
+	]
+}
